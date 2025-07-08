@@ -1,0 +1,61 @@
+{
+  "id": "resp_6860da4ad0b48198a6118f8e207f2e7901144ffe62ec02fe",
+  "object": "response",
+  "created_at": 1751177803,
+  "status": "completed",
+  "background": false,
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-4.1-2025-04-14",
+  "output": [
+    {
+      "id": "msg_6860da517c708198beaf87b754f7d1d201144ffe62ec02fe",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "Sure! Here\u2019s a **summary of the main themes and issues** in the TikTok comment section for the NYC apartment video:\n\n---\n\n### **1. Price and Affordability**\n- Dozens of commenters ask about the price, rent, and whether it is worth it. \n- Estimates by users are often $3,000\u2013$5,000+ per month, some joke it's $10,000 or \u201c4 trillion dollars.\u201d\n- Even those who like the units, such as \u201cLoveee the studio,\u201d quickly add \u201cbut it would cost my arms & legs i bet.\u201d\n\n### **2. Bedroom Legality & Windows**\n- Many note that the bedrooms (especially in the basement) are illegal, referencing NY housing laws (must have an egress window large enough for emergency escape).\n- \u201cThat\u2019s an illegal bedroom,\u201d \u201cBoth are illegal bedrooms,\u201d and \u201cDoesn\u2019t a room have to have a window to be a bedroom?\u201d\n\n### **3. Poor Layout Choices**\n- Repeated complaints about awkward bathroom placement: \u201cWhy is the full bath by the kitchen and a half bath downstairs?\u201d and \u201cSo you have to shower then run to the basement bedroom?\u201d\n- Kitchen is also described as \u201ctiny,\u201d \u201ccramped,\u201d or \u201cupstairs, which is weird.\u201d\n- Some think the layout is a result of landlords splitting bigger apartments into two small, awkward ones.\n\n### **4. Darkness & Lack of Natural Light**\n- Many call the apartments \u201cdark and creepy,\u201d \u201cprison cell,\u201d \u201cgives me haunty vibes,\u201d or \u201cdungeon.\u201d\n- Concern that lack of light causes a need to keep lights on even in the day, adding to bills and affecting mood.\n\n### **5. Noise / Footsteps / Walking**\n- A running joke emerges about the loud, \u201caggressive\u201d footsteps of the person filming \u2014 compared to tap dancing, walking like a video game character, or \u201cMinecraft.\u201d\n- \u201cBro we wearing tap dance shoes doing these reviews.\u201d\n\n### **6. Critique of NYC Landlords/Market**\n- NYC landlords/architects are blamed for squeezing as much rent as possible from undesirable spaces: \u201cVulture landlords charging $5k for a shoebox\u201d and \u201cThey need to be arrested for these designs.\u201d\n- Some contrast with cheaper, larger homes in other states/countries (\u201cI paid $100k for a 3bed/2bath on an acre\u201d).\n\n### **7. Interest Despite Issues**\n- A subset says they'd still live there or prefers the studio: \u201cThe studio is better, hands down.\u201d\n- Several requests: \u201cHow do I apply?\u201d \u201cIs it still available?\u201d \u201cCan I sublease?\u201d\n- But others are adamantly against: \u201cY\u2019all can keep that BS.\u201d\n\n### **8. Miscellaneous / Humor**\n- Several jokes about possible flooding (\"Flooding nightmare\"), hidden \"demon\" in the closet, or chicken/duck noises coming from outside.\n- Some debate NY real estate technicalities on what counts as a studio, 1BR, or full bath.\n\n---\n\n## **Summary Table**\n\n| Theme                    | Sample Comments/Issues                                                                                                                         |\n|--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|\n| Price                    | \"How much is the rent?\", \"5k a month????\", \"It\u2019ll cost your arms AAAAND your legs\", \"You can buy a house for this elsewhere\"                   |\n| Bedroom legality         | \"That's an illegal bedroom\", \"No window means not a legal BR\", \"NYC housing rules\", \"Just call it a studio\"                                   |\n| Layout complaints        | \"Why is the shower upstairs?\", \"Kitchen is so small\", \"Bathroom opens to kitchen\", \"Split a normal unit into two weird units\"                 |\n| Darkness/light           | \"It's so dark everywhere\", \"Gives me prison cell vibes\", \"Depressing, no natural light\"                                                       |\n| Noise/walking jokes      | \"Walking like a video game character\", \"Tap dancing reviewer\", \"Aggressive footsteps\"                                                         |\n| Anti-landlord sentiment  | \"Landlords squeezing every dollar\", \"Unlivable for the price\", \"Architects should be arrested\"                                                |\n| Some positive remarks    | \"Honestly I'd take the first one\", \"I like the studio more\", \"Loveee the studio\", \"I'd still live there\"                                      |\n| Miscellaneous            | \"Is that a chicken?\", \"That closet has a demon\", \"Flooding risk\", \"Could sublease?\", \"Why is the washer/dryer in the bathroom?\"              |\n\n---\n\n## **In summary:**\n- The comment section is a **mix of incredulity, humor, skepticism, and resignation** about NYC housing.  \n- **Main complaints:** Price, illegal/unsafe bedrooms, poor layouts, darkness, small kitchens, and exploitative landlords.  \n- **Ongoing joke:** Loud/weird footsteps of the apartment tour reviewer.\n- **Interest:** Despite everything, some are still interested or prefer these options (\"studio is better!\"), highlighting the desperation/limitations of the NYC housing market.\n- **Other themes:** Debate over what qualifies as a bedroom, questions about neighborhood/location, and a sense that the apartments are bad value for money.\n\nLet me know if you want a **one-sentence summary, more data visualization, or a deep dive on a particular topic** from the comments!"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "previous_response_id": null,
+  "reasoning": {
+    "effort": null,
+    "summary": null
+  },
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    }
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 98537,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 1086,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 99623
+  },
+  "user": null,
+  "metadata": {}
+}

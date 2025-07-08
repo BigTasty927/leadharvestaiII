@@ -1,0 +1,228 @@
+EXECUTIVE SUMMARY:
+🎯 **Social Media Real Estate Lead Analysis - Complete Results**
+
+I've identified **14 qualified real estate leads** from 292 total comments, achieving a **4.8% conversion rate**.
+
+**📊 Key Findings:**
+
+**Top-Tier Leads (Immediate Follow-Up Required):**
+1. **@jennnverse** - "I’m interested in the studio please" (100% confidence)
+2. **@maura_e1** - "How much for the studio?" (100% confidence)
+3. **@cblock17** - "How much and for when?" (97% confidence)
+4. **@kweenjazzy** - "Is this still available" (97% confidence)
+5. **@proseccopapi007** - "How do I apply for the units you show?!!!" (97% confidence)
+6. **@sophiafujimaki** - "how much are both the apartment?" (97% confidence)
+7. **@emmergyyy** - "Need it" (96% confidence)
+8. **@djay_187** - "Where is the studio i want it" (96% confidence)
+
+**High-Intent Pricing Inquiries:**
+* **@devotedlady1** - "Price please"
+* **@frootyloooopz** - "so cute !! prices?"
+* **@box_lord_jedirobin98** - "What is the rent ❓❓❓"
+* **@torilynnee** - "Price?"
+* **@ladies_love_twins** - "How much"
+* **@fatimaalhussainy98** - "How much?"
+* **@micah.hxn** - "How much the studio ?"
+* **@tylerchannell** - "price?"
+* **@mikelanuit** - "How can I inquire?"
+
+**🏠 Property Demand Analysis:**
+* **Studio Apartments**: 6 direct inquiries
+* **General Rentals (apartment/other)**: 8 direct/high-intent inquiries
+
+**⚡ Immediate Action Items:**
+1. **Contact within 2 hours**: @jennnverse, @maura_e1, @cblock17, @kweenjazzy, @proseccopapi007, @sophiafujimaki, @emmergyyy, @djay_187
+2. **Send pricing info**: @devotedlady1, @frootyloooopz, @box_lord_jedirobin98, @torilynnee, @ladies_love_twins, @fatimaalhussainy98, @micah.hxn, @tylerchannell
+3. **Respond to inquiry process**: @mikelanuit
+
+**Bottom Line**: You have 14 immediate high-quality leads ready for follow-up! 🚀
+JSON LEADS DATA:
+[
+  {
+    "username": "jennnverse",
+    "profile_link": "https://www.tiktok.com/@jennnverse",
+    "comment": "I’m interested in the studio please",
+    "classification": "Interested Renter",
+    "property_type": "studio",
+    "confidence_score": 100,
+    "urgency_level": "High",
+    "recommended_action": "Contact immediately for viewing and details",
+    "follow_up_timeframe": "Within 2 hours"
+  },
+  {
+    "username": "maura_e1",
+    "profile_link": "https://www.tiktok.com/@maura_e1",
+    "comment": "How much for the studio?",
+    "classification": "Interested Renter",
+    "property_type": "studio",
+    "confidence_score": 100,
+    "urgency_level": "High",
+    "recommended_action": "Send pricing info immediately",
+    "follow_up_timeframe": "Within 2 hours"
+  },
+  {
+    "username": "cblock17",
+    "profile_link": "https://www.tiktok.com/@cblock17",
+    "comment": "How much and for when?",
+    "classification": "Interested Renter",
+    "property_type": "apartment",
+    "confidence_score": 97,
+    "urgency_level": "High",
+    "recommended_action": "Send pricing and move-in date info",
+    "follow_up_timeframe": "Within 2 hours"
+  },
+  {
+    "username": "kweenjazzy",
+    "profile_link": "https://www.tiktok.com/@kweenjazzy",
+    "comment": "Is this still available",
+    "classification": "Interested Renter",
+    "property_type": "rental",
+    "confidence_score": 97,
+    "urgency_level": "High",
+    "recommended_action": "Confirm availability and begin inquiry process",
+    "follow_up_timeframe": "Within 2 hours"
+  },
+  {
+    "username": "proseccopapi007",
+    "profile_link": "https://www.tiktok.com/@proseccopapi007",
+    "comment": "How do I apply for the units you show?!!!",
+    "classification": "Interested Renter",
+    "property_type": "apartment",
+    "confidence_score": 97,
+    "urgency_level": "High",
+    "recommended_action": "Send application instructions immediately",
+    "follow_up_timeframe": "Within 2 hours"
+  },
+  {
+    "username": "sophiafujimaki",
+    "profile_link": "https://www.tiktok.com/@sophiafujimaki",
+    "comment": "how much are both the apartment?",
+    "classification": "Interested Renter",
+    "property_type": "apartment",
+    "confidence_score": 97,
+    "urgency_level": "High",
+    "recommended_action": "Send pricing info for both units",
+    "follow_up_timeframe": "Within 2 hours"
+  },
+  {
+    "username": "emmergyyy",
+    "profile_link": "https://www.tiktok.com/@emmergyyy",
+    "comment": "Need it",
+    "classification": "Interested Renter",
+    "property_type": "apartment",
+    "confidence_score": 96,
+    "urgency_level": "High",
+    "recommended_action": "Contact immediately for availability",
+    "follow_up_timeframe": "Within 2 hours"
+  },
+  {
+    "username": "djay_187",
+    "profile_link": "https://www.tiktok.com/@djay_187",
+    "comment": "Where is the studio i want it",
+    "classification": "Interested Renter",
+    "property_type": "studio",
+    "confidence_score": 96,
+    "urgency_level": "High",
+    "recommended_action": "Contact immediately for location details",
+    "follow_up_timeframe": "Within 2 hours"
+  },
+  {
+    "username": "devotedlady1",
+    "profile_link": "https://www.tiktok.com/@devotedlady1",
+    "comment": "Price please",
+    "classification": "Interested Renter",
+    "property_type": "apartment",
+    "confidence_score": 90,
+    "urgency_level": "Medium",
+    "recommended_action": "Send pricing info",
+    "follow_up_timeframe": "Within 12 hours"
+  },
+  {
+    "username": "frootyloooopz",
+    "profile_link": "https://www.tiktok.com/@frootyloooopz",
+    "comment": "so cute !! prices?",
+    "classification": "Interested Renter",
+    "property_type": "apartment",
+    "confidence_score": 90,
+    "urgency_level": "Medium",
+    "recommended_action": "Send pricing info",
+    "follow_up_timeframe": "Within 12 hours"
+  },
+  {
+    "username": "box_lord_jedirobin98",
+    "profile_link": "https://www.tiktok.com/@box_lord_jedirobin98",
+    "comment": "What is the rent ❓❓❓",
+    "classification": "Interested Renter",
+    "property_type": "apartment",
+    "confidence_score": 90,
+    "urgency_level": "Medium",
+    "recommended_action": "Send pricing info",
+    "follow_up_timeframe": "Within 12 hours"
+  },
+  {
+    "username": "torilynnee",
+    "profile_link": "https://www.tiktok.com/@torilynnee",
+    "comment": "Price?",
+    "classification": "Interested Renter",
+    "property_type": "apartment",
+    "confidence_score": 90,
+    "urgency_level": "Medium",
+    "recommended_action": "Send pricing info",
+    "follow_up_timeframe": "Within 12 hours"
+  },
+  {
+    "username": "ladies_love_twins",
+    "profile_link": "https://www.tiktok.com/@ladies_love_twins",
+    "comment": "How much",
+    "classification": "Interested Renter",
+    "property_type": "apartment",
+    "confidence_score": 90,
+    "urgency_level": "Medium",
+    "recommended_action": "Send pricing info",
+    "follow_up_timeframe": "Within 12 hours"
+  },
+  {
+    "username": "fatimaalhussainy98",
+    "profile_link": "https://www.tiktok.com/@fatimaalhussainy98",
+    "comment": "How much?",
+    "classification": "Interested Renter",
+    "property_type": "apartment",
+    "confidence_score": 90,
+    "urgency_level": "Medium",
+    "recommended_action": "Send pricing info",
+    "follow_up_timeframe": "Within 12 hours"
+  },
+  {
+    "username": "micah.hxn",
+    "profile_link": "https://www.tiktok.com/@micah.hxn",
+    "comment": "How much the studio ?",
+    "classification": "Interested Renter",
+    "property_type": "studio",
+    "confidence_score": 90,
+    "urgency_level": "Medium",
+    "recommended_action": "Send studio pricing info",
+    "follow_up_timeframe": "Within 12 hours"
+  },
+  {
+    "username": "tylerchannell",
+    "profile_link": "https://www.tiktok.com/@tylerchannell",
+    "comment": "price?",
+    "classification": "Interested Renter",
+    "property_type": "apartment",
+    "confidence_score": 90,
+    "urgency_level": "Medium",
+    "recommended_action": "Send pricing info",
+    "follow_up_timeframe": "Within 12 hours"
+  },
+  {
+    "username": "mikelanuit",
+    "profile_link": "https://www.tiktok.com/@mikelanuit",
+    "comment": "How can I inquire?",
+    "classification": "Interested Renter",
+    "property_type": "apartment",
+    "confidence_score": 90,
+    "urgency_level": "Medium",
+    "recommended_action": "Send inquiry/contact process",
+    "follow_up_timeframe": "Within 12 hours"
+  }
+]

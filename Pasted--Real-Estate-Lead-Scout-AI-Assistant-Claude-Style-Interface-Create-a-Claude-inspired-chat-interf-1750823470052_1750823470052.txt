@@ -1,0 +1,100 @@
+# Real Estate Lead Scout AI Assistant - Claude-Style Interface
+
+Create a Claude-inspired chat interface specifically designed for real estate lead scouting with the following specifications:
+
+## Overall Layout & Design
+- **Single-column chat interface**: Clean, centered layout similar to Claude's interface
+- **Color scheme**: Light theme with orange/amber accent colors (#F97316), clean whites and light grays
+- **Typography**: Clean, readable sans-serif (Inter or system fonts)
+- **Width**: Max 800px centered container with proper margins
+
+## Header Section
+- **Title**: "Real Estate Lead Scout" with Claude-style branding
+- **Subtitle**: "AI Assistant for Social Media Lead Analysis"
+- **Claude avatar**: Simple circular icon or Claude-style "C" logo
+- **Status indicator**: "Online" or "Ready to analyze"
+
+## Chat Interface
+- **Message styling**:
+  - **User messages**: Right-aligned, light gray/blue background
+  - **AI responses**: Left-aligned, white background with subtle border
+  - **System messages**: Centered, muted styling for workflow updates
+- **Claude-style formatting**:
+  - Clean typography with proper line spacing
+  - Code blocks with syntax highlighting
+  - Structured data in tables/lists
+  - Collapsible sections for long responses
+
+## Input Area
+- **Text input**: Large, Claude-style textarea with placeholder text
+- **Send button**: Orange/amber accent button
+- **File upload**: Icon for video URL input or file attachments
+- **Example prompts**: Quick-start buttons like Claude's suggestions
+
+## Real Estate Lead Scout Features
+- **Workflow status panel**: Show current step (Scraping → Analyzing → Formatting)
+- **Quick actions**:
+  - "Analyze TikTok Video"
+  - "Process YouTube Comments" 
+  - "Generate Lead Report"
+  - "Export to CSV"
+- **Progress indicators**: For long-running scraping tasks
+- **Results preview**: Expandable cards showing lead summaries
+
+## Sample Conversation Flow
+```
+USER: "Analyze this TikTok video for potential real estate leads: [URL]"
+
+AI: "I'll help you analyze that TikTok video for real estate leads. Let me break this down into steps:
+
+🔍 **Step 1: Video Analysis**
+- Scraping comments from the provided URL
+- Processing 300+ recent comments
+
+📊 **Step 2: Lead Classification**
+- Identifying buyer intent signals
+- Extracting contact information
+- Categorizing by property type/location
+
+📋 **Step 3: Lead Formatting**
+- Structured JSON output
+- Ready for CRM import
+- Summary report
+
+Starting the analysis now..."
+
+SYSTEM: "🔄 Scraping in progress... Found 247 comments"
+
+AI: "**Analysis Complete!**
+
+Found 12 qualified leads from 247 comments:
+- 8 rental inquiries
+- 3 purchase interests  
+- 1 investment inquiry
+
+[Expandable results table]
+
+Would you like me to export these leads or analyze another video?"
+```
+
+## Technical Implementation
+- **Framework**: React with hooks for state management
+- **Styling**: Tailwind CSS matching Claude's aesthetic
+- **Real-time updates**: For scraping progress and status
+- **Data handling**: JSON formatting for lead export
+- **Error handling**: User-friendly error messages
+
+## Claude-Style UX Elements
+- **Thinking indicators**: Show when AI is "processing"
+- **Progressive disclosure**: Expandable sections for detailed results
+- **Copy buttons**: For code blocks and data exports
+- **Helpful suggestions**: Context-aware follow-up prompts
+- **Professional tone**: Clear, helpful, expert-level responses
+
+## Mobile Responsiveness
+- Stack layout for mobile
+- Touch-friendly buttons and inputs
+- Readable text sizing
+- Proper spacing for thumb navigation
+
+Build this as a professional-looking AI assistant interface that feels like interacting with Claude, but specialized for real estate lead generation from social media comments.

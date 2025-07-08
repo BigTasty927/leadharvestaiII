@@ -1,0 +1,72 @@
+# Real Estate Lead Scout Chat Interface - Build Prompt
+
+Create a modern chat application interface with the following exact specifications:
+
+## Overall Layout & Design
+- **Two-panel layout**: Left sidebar (300px width) + Main chat area (remaining width)
+- **Color scheme**: Teal/turquoise accent color (#4FD1C7), light gray backgrounds (#F7F9FC), white message bubbles
+- **Typography**: Clean, modern sans-serif font (Inter or similar)
+- **Responsive**: Works on desktop and mobile
+
+## Left Sidebar Panel
+- **Header**: Teal background with "MENU" text and hamburger icon (left), circular profile avatar (center), search icon (right)
+- **Navigation sections**:
+  - Activity (with notification dot)
+  - Profile  
+  - Messages (with red notification dot)
+  - Settings
+- **Contact list**: 8-10 user profiles with:
+  - Circular profile photos (40px)
+  - Full names
+  - Online status indicators (green dots)
+  - Last message preview or status text
+
+## Main Chat Area
+- **Header**: "Your conversation" title, clean and minimal
+- **Message bubbles**:
+  - Incoming: Gray bubbles, left-aligned
+  - Outgoing: Teal bubbles (#4FD1C7), right-aligned
+  - Rounded corners, proper spacing
+  - Timestamps below messages
+- **Message input**: Bottom-fixed input field with send button (teal circular button with arrow)
+
+## Specific Styling Requirements
+- **Shadows**: Subtle drop shadows on panels and message bubbles
+- **Spacing**: 16px padding for panels, 12px between messages
+- **Icons**: Use Lucide React or similar icon library
+- **Hover effects**: Subtle hover states on clickable elements
+- **Scrollable areas**: Both sidebar contacts and chat messages should scroll independently
+
+## Technical Implementation
+- **Framework**: React with functional components and hooks
+- **Styling**: Tailwind CSS utility classes
+- **State management**: useState for messages, active chat, online status
+- **Mock data**: Include sample conversations and contact profiles
+- **Responsive**: Mobile-first approach with proper breakpoints
+
+## Real Estate Context Integration
+- **Sample conversations** should include real estate inquiries like:
+  - "Hi Jenny how are you today?"
+  - "Did you hear yesterday?"
+  - "Great, what about you?"
+  - "Of course I did. Speaking of which check this out..."
+  - "Good job, you look good and healthy!"
+- **Contact names** should be realistic (mix the screenshot names with real estate-relevant ones)
+- **Status indicators** for lead quality or response urgency
+
+## Interactive Features
+- Clickable contacts to switch conversations
+- Working message input and send functionality
+- Typing indicators
+- Message timestamps
+- Online/offline status updates
+- Search functionality in header
+
+## Exact Visual Matching
+- Match the **exact color palette** from screenshot
+- Replicate the **message bubble shapes and spacing**
+- Copy the **sidebar width proportions**
+- Match the **header heights and styling**
+- Replicate the **profile photo sizes and positioning**
+
+Build this as a single-file React component that can be easily deployed to Replit, with all styling inline using Tailwind classes. Include realistic sample data and make it fully interactive.
